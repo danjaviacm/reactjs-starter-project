@@ -1,12 +1,9 @@
-# UJ4.0 CM
+# ReactJS Starter Project
 
 ## How to install
 
 - Clone repo
 - **run npm install**
-- cd node_modules
-- **ln -s PATH/TO/FRONTENQUILLO**
-- cd ..
 - **npm run dev** (Use for run webpack server)
 
 ## Build
